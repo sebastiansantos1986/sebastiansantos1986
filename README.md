@@ -2,7 +2,7 @@
 
 🚀 Not a developer — just someone who refuses to say "that's not possible."
 
-I'm a Mac Systems Administrator and IT enthusiast who builds tools when the 
+I'm a **Jamf Certified Administrator** and IT enthusiast who builds tools when the 
 right one doesn't exist. I work in Jamf-managed environments and spend my time 
 making life easier for IT teams and the people they support.
 
@@ -18,9 +18,9 @@ making life easier for IT teams and the people they support.
 
 ## 🌱 Currently Learning
 
-- Swift and SwiftUI (the hard way — by shipping real tools)
-- macOS internals, LaunchDaemons, and Apple Silicon security
-- How to turn "I wish this existed" into something that actually works
+- Swift and SwiftUI — building native macOS tools
+- Python — automation and scripting
+- Shell scripting — because a good one-liner can save your day
 
 ---
 
@@ -45,6 +45,5 @@ Open an issue on any of my repos — that's the best way to start a conversation
 
 ---
 
-⚡ Fun fact: I went from zero Swift experience to shipping a macOS tool 
-with a CLI daemon, SwiftUI popup system, and Jamf integration — all 
-because the existing solutions weren't good enough.
+⚡ **Fun fact:** The first Swift file I ever wrote is now running on 
+production Macs enforcing OS updates across a Jamf fleet.
